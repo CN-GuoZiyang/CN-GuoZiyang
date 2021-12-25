@@ -2,7 +2,7 @@
 
 
 - Hello, I'm Ziyang 👋
-- ![CN-GuoZiyang](https://komarev.com/ghpvc/?username=CN-GuoZiyang) ![CN-GuoZiyang](https://visitor-badge.glitch.me/badge?page_id=CN-GuoZiyang.profile)
+- ![CN-GuoZiyang](https://komarev.com/ghpvc/?username=CN-GuoZiyang)
 
 ## Tags
 
